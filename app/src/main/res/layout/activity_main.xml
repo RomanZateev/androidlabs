@@ -6,10 +6,6 @@
     android:gravity="center"
     android:orientation="vertical">
 
-    <!--
-    Кнопка! Из примечательного только атрибут id, который необходим для взаимодействия с ней
-    в коде (см. MainActivity)
-    -->
     <Button
         android:id="@+id/lab1"
         android:layout_width="wrap_content"
