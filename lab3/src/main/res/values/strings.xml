@@ -1,4 +1,23 @@
 <resources>
-    <string name="app_name">lab3</string>
-    <string name="title_activity_lab3">Lab3Activity</string>
+    <string name="lab3_title">Я %s!</string>
+
+    <string name="lab3_first_name">Имя</string>
+    <string name="lab3_second_name">Отчество</string>
+    <string name="lab3_last_name">Фамилия</string>
+    <string name="lab3_group_number">Номер группы</string>
+    <string name="lab3_action_save">Сохранить</string>
+
+    <string name="lab3_filter_group">Группа</string>
+    <string name="lab3_filter_sex">Пол</string>
+    <string name="lab3_filter_cancel">Без фильтра</string>
+
+    <string name="filter">Фильтр</string>
+
+    <string name="lab3_error_already_exists">Такой студент уже существует</string>
+    <string name="lab3_error_empty_fields">Все поля должны быть заполнены</string>
+
+    <string-array name="sexes">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
 </resources>

@@ -3,10 +3,8 @@
     package="com.example.lab3">
 
     <application>
-        <activity
-            android:name=".Lab3Activity"
-            android:label="@string/title_activity_lab3"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".TestActivity"></activity>
+        <activity android:name=".Lab3Activity" />
     </application>
 
 </manifest>
